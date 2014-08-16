@@ -6,7 +6,7 @@ This is as close as I can get to a replica of the Visual Studio 2012's Dark them
 Installation (per-machine)
 --------------------------
 
-1. Download `VS2012-Dark.xml` to `%PROGRAMFILES%\Notepad++\themes` (`%PROGRAMFILES(X86)%\Notepad++\themes` on 64-bit systems).
+1. Download [`VS2012-Dark.xml`](https://raw.githubusercontent.com/SeanCline/Npp-VS2012-Dark/master/VS2012-Dark.xml), making sure to get the raw version, to `%PROGRAMFILES%\Notepad++\themes` (`%PROGRAMFILES(X86)%\Notepad++\themes` on 64-bit systems).
 2. Restart Notepad++.
 3. Open *Settings->Style Configurator*.
 4. Select `VS2012-Dark` from the theme drop-down box.
