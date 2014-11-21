@@ -735,9 +735,9 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFCAB0" fontStyle="0" />
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="0E3A6C" fgColor="C8C8C8" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="1E1E1E" fgColor="DCDCDC" fontStyle="0" />
-        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAAA3C" bgColor="FF0000" />
-        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" />
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="C8C8C8" />
-        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" />
+        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="4E9CD6" bgColor="FF0000" fontStyle="0" />
+        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" fontStyle="0" />
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" />
+        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="4E4E4E" bgColor="CACACA" fontStyle="0" />
     </GlobalStyles>
 </NotepadPlus>
