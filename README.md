@@ -1,5 +1,4 @@
 # VS2015 Dark Theme for Notepad++
-=============
 
 [for Atom Version](https://github.com/Nidre/VS2015-Dark-Atom/)
 
@@ -17,7 +16,7 @@ Installation
 Issues
 ------
 
-If you find anything else wrong, feel free to [let me know](https://github.com/Nidre/Npp-VS2015-Dark-Npp/issues/new).
+If you find anything else wrong, feel free to [let me know](https://github.com/Nidre/VS2015-Dark-Npp/issues/new).
 
 Screenshot
 ----------
