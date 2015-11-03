@@ -334,7 +334,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="LABEL" styleID="3" fgColor="8DA6CE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMAND" styleID="5" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VARIABLE" styleID="6" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="6" fgColor="92CAF4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="7" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="lua" desc="Lua" ext="">
