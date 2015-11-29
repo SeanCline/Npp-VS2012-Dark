@@ -720,7 +720,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Mark colour" styleID="0" fgColor="DCDCDC" bgColor="0E3A6C" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" fgColor="DCDCDC" bgColor="264F78" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="DCDCDC" bgColor="112435" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Edge colour" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Edge colour" styleID="0" fgColor="888A85" bgColor="1E1E1E" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="2B91AF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold" styleID="0" fgColor="2E3436" bgColor="EEEEEC" fontStyle="0" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontStyle="0" />
