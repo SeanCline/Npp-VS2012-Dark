@@ -139,7 +139,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="608B4E" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="sql" desc="SQL" ext="">
-            <WordsStyle name="KEYWORD" styleID="5" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="KEYWORD" styleID="5" fgColor="4E9CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING2" styleID="7" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
