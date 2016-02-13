@@ -33,8 +33,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="4E9CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">alignas alignof noexcept nullptr static_assert thread_local final override</WordsStyle>
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -51,8 +51,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -69,8 +69,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -87,8 +87,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="4E9CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -105,8 +105,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -125,8 +125,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="A082BD" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -140,8 +140,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         </LexerType>
         <LexerType name="sql" desc="SQL" ext="">
             <WordsStyle name="KEYWORD" styleID="5" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING2" styleID="7" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -281,7 +281,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="A082BD" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="8DA6CE" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -293,8 +293,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="A082BD" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="17" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -334,7 +334,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="LABEL" styleID="3" fgColor="8DA6CE" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMAND" styleID="5" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VARIABLE" styleID="6" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="6" fgColor="92CAF4" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="7" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="lua" desc="Lua" ext="">
@@ -345,8 +345,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="LITERALSTRING" styleID="8" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="A082BD" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="FUNC1" styleID="13" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
@@ -391,8 +391,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="A082BD" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -443,7 +443,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="NUMBER" styleID="2" fgColor="B5CEA8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="FUNCTION WORD" styleID="3" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="SYMBOL" styleID="5" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRINGEOL" styleID="8" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="9" fgColor="8DA6CE" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
@@ -472,9 +472,9 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="ERROR" styleID="1" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" styleID="2" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="POD" styleID="3" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION" styleID="5" fgColor="4E9CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CLASS NAME" styleID="8" fgColor="569CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEF NAME" styleID="9" fgColor="569CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -495,7 +495,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DSC COMMENT" styleID="2" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DSC VALUE" styleID="3" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Name" styleID="5" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION" styleID="6" fgColor="4E9CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="LITERAL" styleID="7" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -513,7 +513,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="STRING" styleID="2" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="3" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="5" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="6" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="8" fgColor="4E9CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
@@ -582,9 +582,9 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="93C763" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="KEYWORD" styleID="7" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="A082BD" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-             <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE BANG" styleID="3" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
@@ -599,7 +599,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="COMMENT" styleID="1" fgColor="66747B" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="2" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING2" styleID="3" fgColor="D69D85" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
-              <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VAR" styleID="5" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="MACRO" styleID="6" fgColor="C8C8C8" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="INSTRUCTION WORD" styleID="7" fgColor="4E9CD6" bgColor="22282A" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
