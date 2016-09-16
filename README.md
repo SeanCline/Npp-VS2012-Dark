@@ -8,11 +8,14 @@ This is as close as I can get to a replica of the Visual Studio 2015's Dark them
 Installation
 --------------------------
 
-1. Download [`VS2015-Dark.xml`](https://raw.githubusercontent.com/Nidre/VS2015-Dark-Npp/master/VS2015-Dark.xml), making sure to get the raw version, to `%PROGRAMFILES%\Notepad++\themes` (`%PROGRAMFILES(X86)%\Notepad++\themes` on 64-bit systems).
+1. **Right Click** to [`VS2015-Dark.xml`](https://raw.githubusercontent.com/Nidre/VS2015-Dark-Npp/master/VS2015-Dark.xml) and select **Save As** to download the theme.
+2. Go to **%APPDATA%\Notepad++**.
+3. Open **themes** folder, create a new folder named **themes** if it doesn't exists.
+4. Place downloaded **.xml** file inside the folder.
 2. Restart Notepad++.
 3. Open *Settings->Style Configurator*.
-4. Select `VS2015-Dark` from the theme drop-down box.
-5. Click *Save & Close*
+4. Select **VS2015-Dark** from the theme drop-down box.
+5. Click **Save & Close**
 
 Issues
 ------
