@@ -724,12 +724,12 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Global override" styleID="0" fgColor="F1F2F3" bgColor="1E1E1E" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="F1F2F3" bgColor="1E1E1E" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="888A85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="B4B4B4" bgColor="264F78" fontName="" fontStyle="1" fontSize="" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="dcdcdc" bgColor="264F78" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="930000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="1E1E1E" fgColor="B4B4B4" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Mark colour" styleID="0" fgColor="B4B4B4" bgColor="0E3A6C" fontStyle="0" />
-        <WidgetStyle name="Selected text colour" styleID="0" fgColor="B4B4B4" bgColor="264F78" fontStyle="0" />
-        <WidgetStyle name="Caret colour" styleID="2069" fgColor="B4B4B4" bgColor="112435" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="0F0F0F" fgColor="dcdcdc" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Mark colour" styleID="0" fgColor="dcdcdc" bgColor="264f78" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" fgColor="dcdcdc" bgColor="264F78" fontStyle="0" />
+        <WidgetStyle name="Caret colour" styleID="2069" fgColor="c3c3c3" bgColor="112435" fontSize="" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="2B91AF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold" styleID="0" fgColor="A5A5A5" bgColor="1E1E1E" fontStyle="0" fontSize="" />
