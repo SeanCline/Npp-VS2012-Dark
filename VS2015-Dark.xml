@@ -171,7 +171,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="STRING" styleID="119" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="WORD" styleID="121" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="WORD" styleID="121" fgColor="4E9CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="122" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="123" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="124" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -182,7 +182,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="41" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="45" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="WORD" styleID="46" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="KEYWORD" styleID="47" fgColor="4C99D3" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="KEYWORD" styleID="47" fgColor="4C99D3" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">null undefined let eval yield arguments get set</WordsStyle>
             <WordsStyle name="DOUBLESTRING" styleID="48" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SINGLESTRING" styleID="49" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SYMBOLS" styleID="50" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -726,14 +726,15 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="888A85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="dcdcdc" bgColor="264F78" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="930000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="0F0F0F" fgColor="dcdcdc" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Mark colour" styleID="0" fgColor="dcdcdc" bgColor="264f78" fontStyle="0" />
-        <WidgetStyle name="Selected text colour" styleID="0" fgColor="dcdcdc" bgColor="264F78" fontStyle="0" />
-        <WidgetStyle name="Caret colour" styleID="2069" fgColor="c3c3c3" bgColor="112435" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Edge colour" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="000000" fgColor="DCDCDC" fontStyle="0" />
+        <WidgetStyle name="Mark colour" styleID="0" fgColor="DCDCDC" bgColor="0E3A6C" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" fgColor="DCDCDC" bgColor="264F78" fontStyle="0" />
+        <WidgetStyle name="Caret colour" styleID="2069" fgColor="DCDCDC" bgColor="112435" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Edge colour" styleID="0" fgColor="888A85" bgColor="1E1E1E" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="2B91AF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Fold" styleID="0" fgColor="A5A5A5" bgColor="1E1E1E" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Fold margin" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Fold" styleID="0" fgColor="2E3436" bgColor="EEEEEC" fontStyle="0" />
+        <WidgetStyle name="Fold margin" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontStyle="0" />
+        <WidgetStyle name="Fold active" styleID="0" fgColor="AAAAAA" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="808080" bgColor="1E1E1E" fontStyle="0" />
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="3687E0" fgColor="B4B4B4" fontStyle="0" fontSize="" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="B55B0B" fgColor="B4B4B4" fontName="" fontSize="" fontStyle="0" />
