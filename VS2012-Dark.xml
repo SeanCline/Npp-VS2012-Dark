@@ -699,6 +699,17 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="STRING VARIABLE" styleID="13" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="14" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
+        <LexerType name="yaml" desc="YAML" ext="yaml">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="2" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="608B4E" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="4E9CD6" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="REFERENCE" styleID="5" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DOCUMENT" styleID="6" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TEXT" styleID="7" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ERROR" styleID="8" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
             <WordsStyle name="Default" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Search Header" styleID="1" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
